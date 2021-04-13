@@ -5,3 +5,4 @@ O que eu vpu aprender na Trybe:
 - Git
 - HTML
 - CSS
+- Front End
